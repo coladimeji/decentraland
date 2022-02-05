@@ -101,7 +101,7 @@ $ ./init.sh
 
 Final message to confirm that the server is functioning:
 
-## Catalyst server is up and running at http://localhost
+## Catalyst server is up and running at http://localhost:8080
 
 Please let me know if you were able to successfully follow these steps and any bumps you may have encountered along the way.
 
